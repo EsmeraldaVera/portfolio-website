@@ -1,0 +1,59 @@
+.arrow {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.pic {
+  width: 400px;
+  border-radius: 50%;
+  padding-right: 500px;
+  padding-left: 500px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.pop{
+background-color: #EDEEC0;
+color: #546A76;
+}
+
+
+.border {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 10px;
+  padding-top: 16px ;
+  padding-left: 20px;
+  border: 3px solid #A7A284;
+}
+
+body {
+  background-color: rgb(201, 199, 188);
+  height: 100px;
+
+}
+
+article{
+  color: #546A76;
+  font-family: 'Architects Daughter',sans-serif;
+  font-size: 20px;
+  padding-right: 300px;
+  padding-left: 300px;
+  padding-top:100px;
+  padding-bottom:100px;
+  letter-spacing: 2px;
+}
+
+body header{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+
+body footer{
+  margin-top: 50px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  font-size: 20px;3  
+}
+
