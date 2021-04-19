@@ -1,8 +1,10 @@
+/*only for the pic at bottom*/
 .arrow {
   width: 50px;
   border-radius: 50%;
 }
 
+/*only for the profile pic*/
 .pic {
   width: 400px;
   border-radius: 50%;
@@ -10,16 +12,18 @@
   padding-left: 500px;
 }
 
+/*as needed for center alignment*/
 .center-text {
   text-align: center;
 }
 
+/*for header and footer only*/
 .pop{
 background-color: #EDEEC0;
 color: #546A76;
 }
 
-
+/*decoratice flare, just for fun*/
 .border {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin: 10px;
@@ -57,3 +61,17 @@ body footer{
   font-size: 20px;3  
 }
 
+/*missing pseudo-class I forgot on initial submission:*/
+/* unvisited link */
+a:link {
+  color: blue;
+}
+a:visited {
+  color: pink;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: red;
+}
