@@ -20,7 +20,7 @@
 /*for header and footer only*/
 .pop{
 background-color: #EDEEC0;
-color: #546A76;
+color: #111a1f;
 }
 
 /*decoratice flare, just for fun*/
@@ -67,7 +67,7 @@ a:link {
   color: blue;
 }
 a:visited {
-  color: pink;
+  color: purple;
 }
 a:hover {
   color: green;
