@@ -20,7 +20,7 @@
 /*for header and footer only*/
 .pop{
 background-color: #EDEEC0;
-color: #111a1f;
+color: #546A76;
 }
 
 /*decoratice flare, just for fun*/
@@ -39,7 +39,7 @@ body {
 }
 
 article{
-  color: #546A76;
+  color: black;
   font-family: 'Architects Daughter',sans-serif;
   font-size: 20px;
   padding-right: 300px;
